@@ -10,3 +10,10 @@ git fetch upstream
 
 git remote add origin https://github.com/zrconley/datasciencecoursera.git
 git push -u origin master
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/zrconley/datasciencecoursera.git
+git push -u origin master
